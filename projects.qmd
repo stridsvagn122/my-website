@@ -1,0 +1,13 @@
+---
+title: "Projects"
+---
+
+## Featured Projects
+
+### 🧠 Machine Learning Project
+Brief summary and link to GitHub repo or screenshots.
+
+### 📊 Data Visualization Project
+Interactive dashboards with Power BI or Tableau.
+
+(Include screenshots/images if applicable)

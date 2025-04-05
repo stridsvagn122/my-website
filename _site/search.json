@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Brief summary and link to GitHub repo or screenshots.\n\n\n\nInteractive dashboards with Power BI or Tableau.\n(Include screenshots/images if applicable)"
+  },
+  {
+    "objectID": "projects.html#featured-projects",
+    "href": "projects.html#featured-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Brief summary and link to GitHub repo or screenshots.\n\n\n\nInteractive dashboards with Power BI or Tableau.\n(Include screenshots/images if applicable)"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download my CV: Download PDF\n\nSummary\n\nM.S. in Business Analytics\nSkills: Python, R, SQL, Power BI\nExperience: [Your internships or jobs]"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m a Business Analytics student at Boston University.\nHi, I’m charles huang!\nMy interests include data science, machine learning, and web development.\nThis site showcases my work, goals, and skills."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Feel free to reach out!\n\n📧 Email: ch6257244@gmail.com\n\n💼 LinkedIn:\n\n🐱 GitHub:"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "my-website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]

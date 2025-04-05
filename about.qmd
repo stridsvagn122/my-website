@@ -1,0 +1,10 @@
+---
+title: "About Me"
+---
+
+I'm a Business Analytics student at Boston University.  
+Hi, I'm charles huang!  
+My interests include data science, machine learning, and web development.
+
+This site showcases my work, goals, and skills.
+

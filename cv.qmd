@@ -1,0 +1,10 @@
+---
+title: "CV"
+---
+
+Download my CV: [Download PDF](cv.pdf)
+
+### Summary
+- M.S. in Business Analytics
+- Skills: Python, R, SQL, Power BI
+- Experience: [Your internships or jobs]
